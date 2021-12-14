@@ -1,5 +1,6 @@
 # ACM Dashboard for ArgoCD Deployments
 
+![20211214111343](https://i.imgur.com/1a1mTVx.png)
 
 ## Requirements
 * [OpenShift](https://www.openshift.com/)
